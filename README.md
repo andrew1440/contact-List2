@@ -4,7 +4,7 @@
 Andrew Odongo
 
 # Description
-This project enables clients to store and retrieve their credentials upon log-in and create new credentialsand even generate random passwords for different accounts.
+This project enables clients to store and retrieve their credentials upon log-in and create new credentialsand even delete credential's for different accounts.
 
 # Features
 Create account for new user
