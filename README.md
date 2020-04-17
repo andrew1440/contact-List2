@@ -1,5 +1,5 @@
 # contact-List2
- this application allows users to create their credentials,  display their contacts  and also delete them
+ This project enables clients to store and retrieve their credentials upon log-in and create new credentialsand even delete credential's for different accounts.
 # Author
 Andrew Odongo
 
