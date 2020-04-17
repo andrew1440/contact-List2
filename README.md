@@ -32,4 +32,20 @@ exit for leaving the site
 
 displays option of exit choose exit option exit
 
-Setup Installation/Requirements
+# Setup Installation/Requirements
+.Clone or download and unzip the repository from github https://github.com/andrew1440/contact-List.git
+
+2.You can use this command (git clone https://github.com/andrew1440/contact-List.git ) to clone the project to your machine if you have git .
+
+3.cd into the project folder and open in text editor either code. or atom.
+
+4.Then run chmod +x run.py on your project directory.
+
+5.Run ./run.py to launch the program.
+
+Technologies used
+Python
+
+Git
+
+Contacts
